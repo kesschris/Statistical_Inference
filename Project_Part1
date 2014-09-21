@@ -1,4 +1,6 @@
-This is the project for the statistical inference class. In it, we will use simulation to explore inference and do some simple inferential data analysis. In this first part we will perform simple simulation and illustrate via simulation and associated explanatory text the properties of the distribution of the mean of 40 exponential(0.2)s.
+This is the project for the statistical inference class. In it, we will use simulation to explore inference and do some
+simple inferential data analysis. In this first part we will perform simple simulation and illustrate via simulation and
+associated explanatory text the properties of the distribution of the mean of 40 exponential(0.2)s.
 
 Requirement
 
